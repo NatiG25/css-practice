@@ -1,1 +1,1 @@
-# css-practice
+# Landing Page Odin Projects
